@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">meu programa misto</string>
+    <string name="resultado" />
+    <string name="valor1" />
+    <string name="bntSub">+</string>
+    <string name="btnDiv">/</string>
+</resources>
